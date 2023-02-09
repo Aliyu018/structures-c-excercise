@@ -19,3 +19,6 @@ Write the following:
 a)	A function that applies bubble sort on the structure and sorts the list according to cgpa in ascending (min. to max.) order.
 
 b)	A function that finds a student from the student id search key. Apply binary search on structure array.
+Without using chat gpt or other ai to help with it
+Without using chat gpt or other ai to help with it
+Without using chat gpt or other ai to help with it
